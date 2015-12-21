@@ -9,5 +9,5 @@ docker run \
 -v ~/Stuff/blog-box:/project \
 -v ~/Stuff/pelican-plugins:/project/pelican-plugins  \
 -v ~/Stuff/pelican-themes:/project/pelican-themes \
--ti chrisramsay/pelicanbox:latest \
+-ti $USER/pelicanbox:latest \
 /bin/bash
