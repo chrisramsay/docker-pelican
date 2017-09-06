@@ -1,3 +1,4 @@
+appdirs==1.4.2
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.5.1
 blinker==1.4
@@ -26,6 +27,7 @@ mistune==0.7.3
 nbconvert==4.2.0
 nbformat==4.1.0
 ndg-httpsclient==0.3.2
+packaging==16.8
 paramiko==1.17.2
 pathlib2==2.1.0
 pelican==3.7.1
@@ -39,10 +41,13 @@ pycparser==2.10
 pycrypto==2.6.1
 Pygments==2.2.0
 pyOpenSSL==0.14
+pyparsing==2.1.10
 python-dateutil==2.6.0
 python-gettext==3.0
+python-magic==0.4.13
 pytz==2016.10
 requests==2.4.3
+s3cmd==2.0.0
 simplegeneric==0.8.1
 six==1.10.0
 smartypants==1.8.6
