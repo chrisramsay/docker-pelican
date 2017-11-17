@@ -7,14 +7,14 @@ ARG BUILD_DATE
 ARG VCS_REF
 ARG VCS_URL
 ARG VERSION
-LABEL org.label-schema.build-date="2017-11-17T13:07:02Z" \
+LABEL org.label-schema.build-date="2017-11-17T13:12:15Z" \
       org.label-schema.name="docker-pelican" \
       org.label-schema.description="Machine for maintaining a Pelican web site" \
       org.label-schema.url="https://github.com/chrisramsay/docker-pelican" \
-      org.label-schema.vcs-ref="f060f635e6cd4f3e1171e071fcbe74798b202483" \
+      org.label-schema.vcs-ref="86234d65f17ee16214ae21cc3342a6ecee5f8f5b" \
       org.label-schema.vcs-url="git@github.com:chrisramsay/docker-pelican.git" \
       org.label-schema.vendor="Chris Ramsay" \
-      org.label-schema.version="1.0.0" \
+      org.label-schema.version="0.9.0" \
       org.label-schema.schema-version="1.0" \
       org.label-schema.maintainer="Chris Ramsay <chris@ramsay-family.net>"
 
