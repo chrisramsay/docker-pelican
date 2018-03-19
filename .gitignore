@@ -68,3 +68,4 @@ ssh/*
 /*.sh
 .DS_Store
 ._.DS_Store
+.s3cfg
